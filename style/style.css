@@ -27,3 +27,10 @@ li a {
 li a:hover {
     background-color: #111;
 }
+
+/*img css style based on http://www.w3schools.com/css/css_align.asp */
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
